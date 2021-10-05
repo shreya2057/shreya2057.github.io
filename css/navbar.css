@@ -1,0 +1,53 @@
+
+header{
+     padding: 0.5%;
+     height: 1.5em;
+     background-color: rgba(21, 3, 46, 0.5);
+     text-align: center;
+     color: rgb(212, 195, 195);
+}
+     
+
+
+
+
+@media (min-width: 500px) {
+     #name{
+          font-family: Verdana, Geneva, Tahoma, sans-serif;
+          font-size: 1em;
+          font-weight: 600;
+          display: inline-block;
+          padding-left: 5%;
+     }
+     .navbar{
+          display: inline-block;
+          padding-left: 40%;
+          font-size: 1em;
+     }
+}
+
+
+#home{
+     display: inline-block;
+     padding-left: 1em;
+}
+
+#about{
+     display: inline-block;
+     padding-left: 2em;
+}
+
+#skills{
+     display: inline-block;
+     padding-left: 2em;
+}
+
+#contact{
+     display: inline-block;
+     padding-left: 2rem;
+}
+
+a{
+     text-decoration: none;
+     color: inherit;
+}
