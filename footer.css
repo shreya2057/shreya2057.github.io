@@ -1,0 +1,45 @@
+.footer{
+    margin: 0px;
+    background-color: #21222A;
+    height: 210px;
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    vertical-align: top;
+}
+
+.footerPart{
+    padding-top: 60px;
+    color: rgb(206, 204, 204);
+    padding-bottom: 10px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+
+.intro{
+    color: rgb(206, 204, 204);
+    padding-bottom: 5px;
+    padding-right: 20px;
+    font-size: 30px;
+}
+
+
+.heading{
+    padding-bottom: 10px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+
+.iconName{
+    padding-left: 10px;
+
+}
+
+.copyright{
+    text-align: right;
+    color: rgb(105, 104, 104);
+    font-size: 25px;
+}
