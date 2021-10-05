@@ -7,11 +7,17 @@ header{
      color: rgb(212, 195, 195);
 }
      
+#header a:hover{
+     color: black;
+}
+
+#header a:active{
+     color: blueviolet;
+}
 
 
 
 
-@media (min-width: 500px) {
      #name{
           font-family: Verdana, Geneva, Tahoma, sans-serif;
           font-size: 1em;
@@ -24,7 +30,7 @@ header{
           padding-left: 40%;
           font-size: 1em;
      }
-}
+
 
 
 #home{
@@ -50,4 +56,10 @@ header{
 a{
      text-decoration: none;
      color: inherit;
+}
+
+@media  screen and (max-width: 600px) {
+     .navbar{
+          display: none;
+     }
 }
