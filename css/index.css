@@ -1,0 +1,51 @@
+body{
+     
+     margin: 0px;
+}
+
+p{
+     font-size: 30px;
+}
+
+#body{
+     background-image: url('/images/background.jpg');
+     background-repeat: no-repeat;
+     background-size:cover;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     color: white;
+     width: 100%;
+}
+
+.body{
+     text-align: center;
+     vertical-align: middle;
+     padding: 10%;
+}
+
+.intro{
+     font-size: 3em;
+     padding: 0.5%;
+     font-weight: 200;
+}
+
+.welcomeMsg{
+     margin: 10%;
+     font-size: 2em;
+     color: white
+}
+
+#myName{
+     font-weight: 900;
+}
+
+#message{
+     padding: 0.9%;
+     border-style: solid;
+     border-width: 2px;
+     border-radius: 10px;
+}
+
+#icon{
+     width: 10%;
+     padding: 5%;
+}
