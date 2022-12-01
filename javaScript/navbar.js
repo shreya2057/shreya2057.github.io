@@ -18,18 +18,18 @@ document.write(`
             <a class="nav-link" href="../html/about.html">About</a>
             </li>
             <li class="nav-item">
-            <a class="nav-link" href="#">Projects</a>
+            <a class="nav-link" href="../html/projects.html">Projects</a>
             </li>
             <li class="nav-item">
-            <a class="nav-link" href="#">Certification</a>
+            <a class="nav-link" href="../html/certificates.html">Certification</a>
             </li>
             <li class="nav-item">
-            <a class="nav-link" href="#">Resume</a>
+            <a class="nav-link" href="../html/resume.html">Resume</a>
             </li>
         </ul>
-        <form class="d-flex" role="search">
+        <a class="d-flex text-decoration-none" href="../html/contact.html" role="search">
             <button class="btn btn-outline-warning" type="submit">Contact</button>
-        </form>
+        </a>
         </div>
     </div>
     </nav>
