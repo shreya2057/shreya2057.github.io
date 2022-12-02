@@ -14,12 +14,12 @@ document.write(`
               <a class="pe-3 text-light><i class="bi bi-youtube"></i></a>
             </div>
             <div class="container m-2">
-              <a href="./index.html" class="pe-3 text-decoration-none text-light">Home</a>
-              <a href="./html/about.html" class="pe-3 text-decoration-none text-light">About</a>
-              <a href="./html/projects.html" class="pe-3 text-decoration-none text-light">Projects</a>
-              <a href="./html/certificates.html" class="pe-3 text-decoration-none text-light">Certificates</a>
-              <a href="./html/resume.html" class="pe-3 text-decoration-none text-light">Resume</a>
-              <a href="./html/contact.html" class="pe-3 text-decoration-none text-light">Contact</a>
+              <a href="../index.html" class="pe-3 text-decoration-none text-light">Home</a>
+              <a href="../html/about.html" class="pe-3 text-decoration-none text-light">About</a>
+              <a href="../html/projects.html" class="pe-3 text-decoration-none text-light">Projects</a>
+              <a href="../html/certificates.html" class="pe-3 text-decoration-none text-light">Certificates</a>
+              <a href="../html/resume.html" class="pe-3 text-decoration-none text-light">Resume</a>
+              <a href="../html/contact.html" class="pe-3 text-decoration-none text-light">Contact</a>
             </div>
             <i class="bi bi-globe"></i><a class="ps-3 text-decoration-none text-light" href="https://shreya2057.github.io/">https://shreya2057.github.io/</a>
           </div>
