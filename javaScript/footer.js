@@ -1,10 +1,9 @@
 document.write(`
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
-    <footer class="bg-dark text-light">
+    <footer class="bg-dark text-light bottom-0">
       <div class="container text-light p-4 ps-sm-0">
         <div class="row">
           <div class="col-3">
-            <img src="./images/logo.jpg" class="img-fluid" width="150px">
+            <img src="../images/logo.jpg" class="img-fluid" width="150px">
           </div>
           <div class="col-9 text-center align-self-center">
             <div class="container fs-4 m-2">
