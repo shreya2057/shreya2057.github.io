@@ -3,7 +3,7 @@ document.write(`
     <nav class="navbar navbar-dark navbar-expand-lg bg-dark">
     <div class="container-fluid">
         <a class="navbar-brand fw-bold fs-4" href="../index.html">
-            <img src="../images/brand.png" alt="Logo" width="35" height="35" class="d-inline-block align-text-top me-2"></img>
+            <img src="../images/myLogo/brand.png" alt="Logo" width="35" height="35" class="d-inline-block align-text-top me-2"></img>
             Shreya Shrestha
             </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
