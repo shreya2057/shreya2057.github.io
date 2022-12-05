@@ -11,7 +11,7 @@ document.write(`
               <a class="pe-3 text-light"><i class="bi bi-facebook"></i></a>
               <a class="pe-3 text-light"><i class="bi bi-twitter"></i></a>
               <a class="pe-3 text-light"><i class="bi bi-github"></i></a>
-              <a class="pe-3 text-light><i class="bi bi-youtube"></i></a>
+              <a class="pe-3 text-light"><i class="bi bi-youtube"></i></a>
             </div>
             <div class="container m-2">
               <a href="../index.html" class="pe-3 text-decoration-none text-light">Home</a>
