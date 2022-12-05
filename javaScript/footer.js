@@ -7,11 +7,11 @@ document.write(`
           </div>
           <div class="col-9 text-center align-self-center">
             <div class="container fs-4 m-2">
-              <a class="pe-3 text-light"><i class="bi bi-linkedin"></i></a>
-              <a class="pe-3 text-light"><i class="bi bi-facebook"></i></a>
-              <a class="pe-3 text-light"><i class="bi bi-twitter"></i></a>
-              <a class="pe-3 text-light"><i class="bi bi-github"></i></a>
-              <a class="pe-3 text-light"><i class="bi bi-youtube"></i></a>
+              <a class="pe-3 text-light" href="https://www.linkedin.com/in/iamshreyastha/"><i class="bi bi-linkedin"></i></a>
+              <a class="pe-3 text-light" href="https://www.facebook.com/shreyashrestha2k57"><i class="bi bi-facebook"></i></a>
+              <a class="pe-3 text-light" href="https://twitter.com/iamshreyastha"><i class="bi bi-twitter"></i></a>
+              <a class="pe-3 text-light" href="https://github.com/shreya2057"><i class="bi bi-github"></i></a>
+              <a class="pe-3 text-light" href="https://www.youtube.com/@shreyashrestha2k57"><i class="bi bi-youtube"></i></a>
             </div>
             <div class="container m-2">
               <a href="../index.html" class="pe-3 text-decoration-none text-light">Home</a>
